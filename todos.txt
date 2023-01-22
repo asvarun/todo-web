@@ -6,3 +6,5 @@ cook
 eat
 work
 sleep
+water garden
+paint
