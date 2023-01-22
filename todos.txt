@@ -1,0 +1,8 @@
+wakeup
+brush
+bath
+exercise
+cook
+eat
+work
+sleep
